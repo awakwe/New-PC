@@ -16,6 +16,7 @@ comment:  This document is a simple LiaScript course example.
 
 ## I. Introduction
 Tutor Tony and student Barbara engage in a conversation about computer hardware and technical support.
+
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
 
 ## II. Computer Hardware and Technical Support
