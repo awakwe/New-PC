@@ -157,6 +157,43 @@ The conversation concludes with the intention to select a computer and complete 
     - Resources and tools for improving query letter writing skills
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
 
+
+
+# **🤠 Get in Gear with Your Computer Setup: A Down-to-Earth Texas Guide**
+
+## 1. 🚀 Kick-off
+Hey there, welcome to your step-by-step roadmap for mastering your computer! This guide is like your personal GPS to navigate the world of computer setup, data backups, and connecting two computers, just like Houston to Austin.
+
+## 2. 🖥️ Setting Up Your Computer – Easy as Sunday Morning
+
+### 2.1. 🏈 Your Home Office Team
+Setting up your computer is like assembling your own home team for the big game. You have your:
+- 🖥️ Computer (your star quarterback),
+- 🖨️ Monitor (your view from the luxury suite),
+- ⌨️ Keyboard (your playbook), and
+- 🌐 Ethernet Cable (the secret strategy to win the internet game).
+
+### 2.2. 🏁 Securing Your Internet Touchdown
+Hooking up your computer to the internet is as straightforward as a Texas two-step. You just plug the Ethernet cable into your computer and your router – it’s like connecting the ball to the hands of your receiver.
+
+## 3. 💾 Safeguarding Your Digital Treasures
+
+### 3.1. 🔒 Using Norton 360: Your Digital Safe
+Think of Norton 360 as your digital Fort Knox, a vault for your precious data. Just like storing gold in a safe, you open Norton 360, go to 'Backup', and follow the instructions. 
+
+To retrieve your digital gold on a new computer, it's as easy as a trip back to the vault. Open Norton 360, find 'Backup', click on 'Restore Files', and just follow the steps, like a cowboy following his trail back home.
+
+### 3.2. 📦 USB Drive: Your Pocket-Sized Safe
+A USB drive is like your own pocket-sized treasure chest. Just copy your files onto it, and you can take them with you wherever you roam, like a cowboy with his trusty saddlebag.
+
+## 4. 🪟 Connecting Your Digital Window
+Your monitor is your window to the digital world. Like finding the perfect view over the Texas plains, you just need the right connection. That's where the DVI cable comes in - it's like fitting the right key into the lock.
+
+## 5. 🤝 Linking Two Computers: Your Digital Handshake
+Connecting your old computer to your new one is like creating a digital handshake. Get yourself an Ethernet cable, plug one end into your old computer and the other into your new one, and boom – you're in business! It's like setting up a direct line from Houston to Dallas.
+
+And there you have it, folks! Remember, your user manuals and professional IT support are like your personal pit crew, ready to help you get back on the track whenever you need a tune-up. Let's ride this digital highway together! 🚗💨
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
