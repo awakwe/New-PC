@@ -10,7 +10,7 @@ logo:     https://your-logo-url.com/logo.jpg
 comment:  This document is a simple LiaScript course example.
 
 -->
-🎉 **Exciting Update: Google Classroom is Here!** 🎉
+# 🎉 **Exciting Update: Google Classroom is Here!** 🎉
 
 Hello Learners!
 
