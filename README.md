@@ -10,6 +10,22 @@ logo:     https://your-logo-url.com/logo.jpg
 comment:  This document is a simple LiaScript course example.
 
 -->
+🎉 **Exciting Update: Google Classroom is Here!** 🎉
+
+Hello Learners!
+
+Great news! We're integrating 🎓 **Google Classroom** into our Adult Computer Literacy Program. This user-friendly online platform will enhance our learning process and make interactions more engaging. 💻
+
+By using Google Classroom, you'll develop essential digital skills and become more confident online. 
+
+Worried about the transition? Don't be! 😊 We'll guide you every step of the way.
+
+Click here to access our Google Classroom: [👉 Google Classroom 👈](https://classroom.google.com/c/NjE1OTkwMzQ1NTE4?cjc=qxxghym)
+
+Looking forward to seeing you there!
+
+Best,
+Tony 🙌
 
 # Lesson 1 notes
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
